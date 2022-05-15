@@ -1,0 +1,300 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.logo img{
+    
+    height: 18px;
+    width: 198px;
+    margin-left: 12rem;
+    margin-top: 17px;
+}
+.menu a{
+    margin-left: 18px;
+    font-size: 17px;
+    
+}
+.bar{
+    height: 100px;
+    background-color: white;
+    /* position: sticky; */
+    
+}
+.crouse{
+    height: 790px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: relative;
+    
+    
+
+}
+.btn button{
+    margin-left: 1rem;
+}
+/* .image img{
+    margin-top: 114px;
+} */
+.box1{
+    height: 255px;
+    position: absolute;
+    top: -73px;
+    margin-left:20px;
+    background-color: #0d98ba;
+}
+.box1 img{
+    margin-top: 66px;
+    margin-left: 10px;
+}
+.box1 h4{
+    margin-top: 66px;
+    margin-left: 10px;
+}
+.box2 img{
+    margin-top: 66px;
+    margin-left: 10px;
+}
+.box2 h4{
+    margin-top: 66px;
+    margin-left: 10px;
+}
+.box3 img{
+    margin-top: 66px;
+    margin-left: 10px;
+}
+.box3 h4{
+    margin-top: 66px;
+    margin-left: 10px;
+}
+.box4 img{
+    margin-top: 66px;
+    margin-left: 10px;
+}
+.box4 h4{
+    margin-top: 66px;
+    margin-left: 10px;
+}
+.box2{
+    height: 255px;
+    position: absolute;
+    top: -73px;
+    margin-left:20px;
+    background-color: 	#08e8de;
+}
+.box3{
+    height: 255px;
+    position: absolute;
+    top: -73px;
+    margin-left:20px;
+    background-color: #e7feff;
+}
+.box4{
+    height: 255px;
+    position: absolute;
+    top: -73px;
+    margin-left:20px;
+    background-color: 	#ffb7c5;
+}
+.dibba{
+    height: 200px;
+    /* background: red; */
+}
+.ab{
+ font-weight: bold;
+ margin-left: 10px;
+}
+.u{
+color: #00a651;
+font-weight: lighter;
+
+}
+.lorem{
+    font-size: 13px;
+    color: #00a651;
+
+}
+.second{
+   font-size: 13px;
+
+}
+.que img{
+    height: 406px;
+    width: 425px;
+    margin-top: 1rem;
+    position: relative;
+}
+.jad{
+    height: 72px;
+    width: 72px;
+    position: absolute;
+    top: 11rem;
+    left: 184px;
+
+}
+.for{
+    position: relative;
+}
+.sec{
+    position: absolute;
+    top: 15px;
+}
+.cou{
+margin-left: -2px;
+}
+.hid{
+   margin-top: 20px;
+}
+.hidden-box{
+    height: 106px;
+    overflow: hidden;
+    transition: 0.7s;
+    
+}
+
+.hidden-box:hover{
+    overflow: visible;
+    z-index: 6578;
+}
+.line{
+    
+    height: 89px;
+    width: 114px;
+ font-weight: bolder;
+}
+
+
+
+
+
+.slider{
+    width: 320px !important;
+    height: 387px;
+    transition: 0.4s;
+    overflow: visible;
+    
+    /* background-color: #00a651; */
+}
+.slider:hover{
+    overflow: visible;
+}
+.slider img{
+    transition: 0.4s;
+}
+.slider img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.drop {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .shop:hover .drop{
+    display: block;
+  }
+
+  /* fotter/  */
+  .fog
+{
+   
+    margin-top: 86px;
+    background-color:whitesmoke;
+    border:1px solid #E8D6D6
+    
+}
+.lens
+{
+    float: left;
+    background-color: wheat;
+    height: 28px;
+    width: 28px;
+    margin: left 4px;
+    margin-top: 24px;
+    border-radius: 28px;
+}
+.lens1
+{
+    float: left;
+    background-color: wheat;
+    height: 28px;
+    width: 28px;
+    margin-left: 13px;
+    margin-top: 24px;
+    border-radius: 28px;
+}
+.lens2
+{
+    float: left;
+    background-color: wheat;
+    height: 28px;
+    width: 28px;
+    margin-left: 13px;
+    margin-top: 24px;
+    border-radius: 28px;
+}
+.lens3
+{
+    float: left;
+    background-color: wheat;
+    height: 28px;
+    width: 28px;
+    margin-left: 13px;
+    margin-top: 24px;
+    border-radius: 28px;
+}
+.army1
+{
+    padding-top: 70px;
+}
+.bella li
+{
+    margin-top: 20px;
+    margin-left: 5px;
+    list-style: none;
+    
+}
+.bella li a
+{
+    color: black !important;
+}
+.set 
+{
+    color: black;
+    margin-top: 30px;
+}
+.set li 
+{
+    margin-top: 16px;
+    list-style: none;
+}
+.set li a
+{
+    color: black;
+}
+.logo1 img{
+    height: 18px;
+    width: 198px;
+    margin-left: -1rem;
+    margin-top: 7px;
+}
+.logo img{
+    height: 18px;
+    width: 198px;
+    margin-left: 8rem;
+    margin-top: 24px;
+}
+
+
+.rahul{
+    resize: none;
+    margin-top: 3px;
+}
